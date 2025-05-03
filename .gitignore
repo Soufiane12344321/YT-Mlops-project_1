@@ -174,3 +174,5 @@ cython_debug/
 .pypirc
 # Secret environment file
 s.env
+
+artifact
